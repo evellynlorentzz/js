@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2f2c2c;
+    flex-direction: column;
+    color: aliceblue;
+    }
+    
+    canvas {
+    border: 3px solid rgb(231, 120, 120);
+    }

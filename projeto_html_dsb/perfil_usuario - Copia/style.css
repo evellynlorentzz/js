@@ -1,0 +1,65 @@
+/* Resetando margens e preenchimento padrão */
+body, h1, h2, p, button {
+    margin: 0;
+    padding: 0;    
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:lightpink;
+    color:rgb(192, 4, 104)
+}
+
+header {
+    background-color: plum;
+    color:darkmagenta;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#profile, #comments {
+    background-color:rgb(250, 149, 164);
+    border-radius: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    width: 300px;
+    margin: 10px;
+}
+
+#profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+button {
+    background-color:rgb(247, 191, 200);
+    color:rgb(105, 4, 58);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(223, 167, 179);
+}
+
+footer{
+    text-align: center;
+}
+
+#comment-input{
+    width: 200px;
+    height: 200px;
+}
+
+

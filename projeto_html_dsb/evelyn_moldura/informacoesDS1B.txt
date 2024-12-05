@@ -1,0 +1,42 @@
+|--------------------------------|
+| informacoes do cachorro        |
+|--------------------------------|
+| Nome: Snoop. Idade: 18         | 
+|O cachorro está latindo : auau! | 
+|--------------------------------|
+
+╔════════════════════════════════════╗
+║       informacoes do cachorro      ║
+╠════════════════════════════════════╣
+║    Nome: Snoop. Idade: 18          ║ 
+║   O cachorro está latindo : auau!  ║
+╚════════════════════════════════════╝
+
+|--------------------------------|
+| informacoes do gato            |
+|--------------------------------|
+| Nome: Garfield. I dade: 3      | 
+|O Gato está miando : miau!      | 
+|--------------------------------|
+
+╔════════════════════════════════════╗
+║       informacoes do Gato          ║
+╠════════════════════════════════════╣
+║    Nome: Garfield. Idade: 3        ║ 
+║   O gato esta miando : miau!       ║
+╚════════════════════════════════════╝
+
+|--------------------------------|
+| informacoes do Passaro         |
+|--------------------------------|
+| Nome: calopsita. I dade: 1     | 
+|O Passaro está piando : piu!    | 
+|--------------------------------|
+
+╔════════════════════════════════════╗
+║       informacoes do passaro       ║
+╠════════════════════════════════════╣
+║    Nome: Calopsita. Idade: 1       ║ 
+║   O passaro esta piando : piu!     ║
+╚════════════════════════════════════╝
+
